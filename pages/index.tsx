@@ -6,13 +6,11 @@ import makeThings from "../maps/make-things.json";
 const IndexPage = () => (
   <Layout title="Weatherstack Icons">
     <div className="mx-auto max-w-7xl sm:px-6 lg:px-8">
-      <div className="flex flex-col items-center justify-center">
-        <h1 className="mb-2 text-3xl font-bold">erikflowers</h1>
-        <div className="mb-2">
-          <a href="https://erikflowers.github.io/weather-icons/">
-            https://erikflowers.github.io/weather-icons/
-          </a>
-        </div>
+      <div className="mb-2">
+        <h1 className="text-3xl font-bold">erikflowers</h1>
+        <a href="https://erikflowers.github.io/weather-icons/">
+          https://erikflowers.github.io/weather-icons/
+        </a>
       </div>
       <div className="xl:grid-cols- grid grid-cols-2 gap-3 md:grid-cols-3 lg:grid-cols-5">
         {Object.keys(erikflowers).map((key, index) => {
@@ -28,7 +26,7 @@ const IndexPage = () => (
         })}
       </div>
       <div className="my-2">
-        <h1 className="mb-2 text-3xl font-bold">Make-Things</h1>
+        <h1 className="text-3xl font-bold">Make-Things</h1>
         <a href="https://erikflowers.github.io/weather-icons/">
           https://erikflowers.github.io/weather-icons/
         </a>
