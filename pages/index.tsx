@@ -19,6 +19,7 @@ const IndexPage = () => (
             <WeatherIcon
               src={`https://raw.githubusercontent.com/erikflowers/weather-icons/bb80982bf1f43f2d57f9dd753e7413bf88beb9ed/svg/wi-${value.slug}.svg`}
               key={key}
+              weatherCode={key}
               slug={value.slug}
               description={value.description}
             />
@@ -38,6 +39,7 @@ const IndexPage = () => (
             <WeatherIcon
               src={`https://raw.githubusercontent.com/Makin-Things/weather-icons/master/animated/${value.slug}.svg`}
               key={key}
+              weatherCode={key}
               slug={value.slug}
               description={value.description}
             />

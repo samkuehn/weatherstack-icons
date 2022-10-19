@@ -15,7 +15,7 @@ const Layout = ({ children, title = "Weatherstack Icons" }: Props) => (
     </Head>
     <header></header>
     {children}
-    <footer></footer>
+    <footer className="h-16"></footer>
   </div>
 );
 
