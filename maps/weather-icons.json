@@ -1,0 +1,74 @@
+{
+  "113": { "slug": "day-sunny", "description": "Clear/Sunny" },
+  "116": { "slug": "day-cloudy", "description": "Partly Cloudy" },
+  "119": { "slug": "cloudy", "description": "Cloudy" },
+  "122": { "slug": "day-sunny-overcast", "description": "Overcast" },
+  "143": { "slug": "day-haze", "description": "Mist" },
+  "176": { "slug": "day-rain", "description": "Patchy rain nearby" },
+  "179": { "slug": "day-snow", "description": "Patchy snow nearby" },
+  "182": { "slug": "day-sleet", "description": "Patchy sleet nearby" },
+  "185": {
+    "slug": "day-showers",
+    "description": "Patchy freezing drizzle nearby"
+  },
+  "200": {
+    "slug": "thunderstorm",
+    "description": "Thundery outbreaks in nearby"
+  },
+  "227": { "slug": "snow-wind", "description": "Blowing snow" },
+  "230": { "slug": "snow", "description": "Blizzard" },
+  "248": { "slug": "fog", "description": "Fog" },
+  "260": { "slug": "fog", "description": "Freezing fog" },
+  "263": { "slug": "showers", "description": "Patchy light drizzle" },
+  "266": { "slug": "showers", "description": "Light drizzle" },
+  "281": { "slug": "showers", "description": "Freezing drizzle" },
+  "284": { "slug": "showers", "description": "Heavy freezing drizzle" },
+  "293": { "slug": "showers", "description": "Patchy light rain" },
+  "296": { "slug": "showers", "description": "Light rain" },
+  "299": { "slug": "showers", "description": "Moderate rain at times" },
+  "302": { "slug": "showers", "description": "Moderate rain" },
+  "305": { "slug": "rain", "description": "Heavy rain at times" },
+  "308": { "slug": "rain", "description": "Heavy rain" },
+  "311": { "slug": "rain", "description": "Light freezing rain" },
+  "314": { "slug": "rain", "description": "Moderate or Heavy freezing rain" },
+  "317": { "slug": "sleet", "description": "Light sleet" },
+  "320": { "slug": "sleet", "description": "Moderate or heavy sleet" },
+  "323": { "slug": "snow", "description": "Patchy light snow" },
+  "326": { "slug": "snow", "description": "Light snow" },
+  "329": { "slug": "snow", "description": "Patchy moderate snow" },
+  "332": { "slug": "snow", "description": "Moderate snow" },
+  "335": { "slug": "snow", "description": "Patchy heavy snow" },
+  "338": { "slug": "snow", "description": "Heavy snow" },
+  "350": { "slug": "hail", "description": "Ice pellets" },
+  "353": { "slug": "showers", "description": "Light rain shower" },
+  "356": { "slug": "showers", "description": "Moderate or heavy rain shower" },
+  "359": { "slug": "showers", "description": "Torrential rain shower" },
+  "362": { "slug": "showers", "description": "Light sleet showers" },
+  "365": {
+    "slug": "showers",
+    "description": "Moderate or heavy sleet showers"
+  },
+  "368": { "slug": "snow", "description": "Light snow showers" },
+  "371": { "slug": "snow", "description": "Moderate or heavy snow showers" },
+  "374": { "slug": "hail", "description": "Light showers of ice pellets" },
+  "377": {
+    "slug": "hail",
+    "description": "Moderate or heavy showers of ice pellets"
+  },
+  "386": {
+    "slug": "storm-showers",
+    "description": "Patchy light rain in area with thunder"
+  },
+  "389": {
+    "slug": "storm-showers",
+    "description": "Moderate or heavy rain in area with thunder"
+  },
+  "392": {
+    "slug": "night-snow-thunderstorm",
+    "description": "Patchy light snow in area with thunder"
+  },
+  "395": {
+    "slug": "night-snow-thunderstorm",
+    "description": "Moderate or heavy snow in area with thunder"
+  }
+}
