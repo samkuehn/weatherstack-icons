@@ -3,7 +3,7 @@
   "116": { "slug": "cloudy-2-day", "description": "Partly Cloudy" },
   "119": { "slug": "cloudy", "description": "Cloudy" },
   "122": { "slug": "cloudy-1-day", "description": "Overcast" },
-  "143": { "slug": "cloudy-1-day", "description": "Mist" },
+  "143": { "slug": "fog", "description": "Mist" },
   "176": { "slug": "rainy-1", "description": "Patchy rain nearby" },
   "179": { "slug": "snowy-1", "description": "Patchy snow nearby" },
   "182": { "slug": "rain-and-sleet-mix", "description": "Patchy sleet nearby" },
