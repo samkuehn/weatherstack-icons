@@ -2,9 +2,15 @@
 
 SEE maps folder for mappings
 
-## weather-icons
+## Icon packs
+
+### erikflowers
 
 https://erikflowers.github.io/weather-icons/
+
+### Make-Tings
+
+https://github.com/Makin-Things/weather-icons
 
 ## See for more icon packs to map
 

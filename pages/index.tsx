@@ -28,8 +28,8 @@ const IndexPage = () => (
       </div>
       <div className="my-2">
         <h1 className="text-3xl font-bold">Make-Things</h1>
-        <a href="https://erikflowers.github.io/weather-icons/">
-          https://erikflowers.github.io/weather-icons/
+        <a href="https://github.com/Makin-Things/weather-icons">
+          https://github.com/Makin-Things/weather-icons
         </a>
       </div>
       <div className="xl:grid-cols- grid grid-cols-2 gap-3 md:grid-cols-3 lg:grid-cols-5">
